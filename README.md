@@ -4,13 +4,12 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
-🎓 Data Science student at **PSG College of Technology**  
-🤖 Passionate about **Machine Learning, Deep Learning, NLP & AI Systems**  
-📊 Love turning **data → insights → decisions**  
-⚙️ Enjoy building **analytical dashboards, intelligent models, and scalable AI workflows**  
-📚 Constant learner | Research-driven | Problem solver  
+I am a Data Science student at **PSG College of Technology** with a strong interest in **Machine Learning, Deep Learning, NLP, and AI-driven systems**.  
+My work focuses on transforming raw data into meaningful insights, building reliable predictive models, and developing scalable, production-ready analytical workflows.  
+I value clarity, precision, and real-world impact in my work, and I am committed to continuous learning, research-oriented thinking, and solving problems with a data-centric approach.
+
 
 ---
 

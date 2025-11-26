@@ -6,8 +6,6 @@
 
 ## About Me
 
-I am a Data Science student at **PSG College of Technology 
-
 ---
 
 ## 🧠 Tech Stack & Tools

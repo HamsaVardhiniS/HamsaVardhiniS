@@ -1,10 +1,6 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="600"/>
-</p>
 
-<h1 align="center">Hi 👋, I'm Hamsavardhini S</h1>
-<h3 align="center">Data Science Student | ML & AI Enthusiast | Analytics Learner</h3>
+<h1 align="center">Hamsavardhini S</h1>
+<h3 align="center">Data Science Student</h3>
 
 ---
 
@@ -60,12 +56,12 @@
 
 ### 📊 Top Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamsaVardhiniS&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🧩 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamsaVardhiniS&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -73,9 +69,7 @@
 ## 🌐 Connect With Me
 
 📧 **Email:** hamsavardhini005@gmail.com  
-🔗 **LinkedIn:** *Add your profile link here*  
-🐙 **GitHub:** *Your GitHub link*
-
+🔗 **LinkedIn:** https://www.linkedin.com/in/hamsavardhini-s/ 
 ---
 
 <p align="center">

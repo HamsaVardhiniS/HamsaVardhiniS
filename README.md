@@ -47,31 +47,8 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-### 🔥 Streak Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HamsaVardhiniS&theme=highcontrast&hide_border=true" />
-</p>
-
-### 📊 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamsaVardhiniS&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🧩 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamsaVardhiniS&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 📧 **Email:** hamsavardhini005@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/hamsavardhini-s/ 
 ---
-
-<p align="center">
-✨ *Learning every day, building with curiosity, and growing with data.* ✨
-</p>

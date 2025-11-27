@@ -1,18 +1,16 @@
 <!-- Banner / Animation -->
+<!-- Static Professional Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBjNGd5YXA2Z2Z4eDg2cmI2d2VxcGJveGtxMXh5Z2QzZ2xkMml1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="600" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" width="100%" />
 </p>
 
 <h1 align="center">Hamsavardhini S</h1>
-<h3 align="center">Data → Insights → Decisions</h3>
-
 ---
 
 ## 🌟 About Me  
 - 🎓 Pursuing **M.Sc. Data Science** at *PSG College of Technology*  
-- 📚 Passionate learner exploring **Machine Learning, Deep Learning, NLP, and Analytics**  
-- 💡 Love converting **raw data into meaningful insights & decisions**  
-- 🚀 Interested in AI systems, dashboards, and scalable ML workflows  
+- 📚 Passionate learner exploring **Machine Learning, Deep Learning, and Analytics**  
+- 🚀 Interested in Multi-Agent systems, dashboards, and Business Analytics  
 
 ---
 

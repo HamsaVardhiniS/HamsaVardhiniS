@@ -2,7 +2,7 @@
 <!-- Static Professional Banner -->
 <!-- Mini Banner on Left -->
 <p align="center">
-  <img src="https://github.com/HamsaVardhiniS/HamsaVardhiniS/blob/main/Banner.png" width="620" />
+  <img src="https://github.com/HamsaVardhiniS/HamsaVardhiniS/blob/main/Banner.png" width="100%" />
 </p>
 
 

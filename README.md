@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://github.com/HamsaVardhiniS/HamsaVardhiniS/blob/main/Banner.png" width="620" />
 </p>
----
 
 
 ## 🌟 About Me  
@@ -21,7 +20,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />  
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-f2c811?style=for-the-badge&logo=Power%20BI&logoColor=000" />
   <img src="https://img.shields.io/badge/Tableau-005571?style=for-the-badge&logo=Tableau&logoColor=white" />

@@ -4,16 +4,13 @@
 <p align="center">
   <img src="https://github.com/HamsaVardhiniS/HamsaVardhiniS/blob/main/Banner.png" width="620" />
 </p>
-
-<h1 align="center">Hamsavardhini S</h1>
-
 ---
 
 
 ## 🌟 About Me  
 - 🎓 Pursuing **M.Sc. Data Science** at *PSG College of Technology*  
-- 📚 Passionate learner exploring **Machine Learning, Deep Learning, and Analytics**  
-- 🚀 Interested in Multi-Agent systems, dashboards, and Business Analytics  
+- 📚 Passionate learner
+- 🚀 Interested in **Multi-Agent Systems**, Machine Learning, and business-focused analytical solutions
 
 ---
 

@@ -32,32 +32,13 @@
   </a>
 </p>
 
----
-
-## 🏅 Badges  
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=HamsaVardhiniS&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HamsaVardhiniS&show_icons=true&theme=transparent&hide_border=true" height="160" />
-
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamsaVardhiniS&layout=compact&theme=transparent&hide_border=true" height="160"/>
 
 </p>
-
----
-
-## 🔥 Streak Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HamsaVardhiniS&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----

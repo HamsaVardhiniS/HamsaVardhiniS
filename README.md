@@ -1,11 +1,14 @@
 <!-- Banner / Animation -->
 <!-- Static Professional Banner -->
-<p align="center">
-  <img src="https://github.com/HamsaVardhiniS/HamsaVardhiniS/blob/main/Banner.png"/>
+<!-- Mini Banner on Left -->
+<p align="left">
+  <img src="https://github.com/HamsaVardhiniS/HamsaVardhiniS/blob/main/Banner.png" width="120" />
 </p>
 
 <h1 align="center">Hamsavardhini S</h1>
+
 ---
+
 
 ## 🌟 About Me  
 - 🎓 Pursuing **M.Sc. Data Science** at *PSG College of Technology*  

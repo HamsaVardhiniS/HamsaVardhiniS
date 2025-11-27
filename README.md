@@ -1,7 +1,7 @@
 <!-- Banner / Animation -->
 <!-- Static Professional Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HamsaVardhiniS/HamsaVardhiniS/main/banner.png" width="100%" />
+  <img src="https://github.com/HamsaVardhiniS/HamsaVardhiniS/blob/main/Banner.png"/>
 </p>
 
 <h1 align="center">Hamsavardhini S</h1>

@@ -1,48 +1,46 @@
+<!-- Banner / Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBjNGd5YXA2Z2Z4eDg2cmI2d2VxcGJveGtxMXh5Z2QzZ2xkMml1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="600" />
+</p>
 
 <h1 align="center">Hamsavardhini S</h1>
-<h3 align="center">Data Science Student</h3>
+<h3 align="center">Data → Insights → Decisions</h3>
 
 ---
 
-## About Me
+## 🌟 About Me  
+- 🎓 Pursuing **M.Sc. Data Science** at *PSG College of Technology*  
+- 📚 Passionate learner exploring **Machine Learning, Deep Learning, NLP, and Analytics**  
+- 💡 Love converting **raw data into meaningful insights & decisions**  
+- 🚀 Interested in AI systems, dashboards, and scalable ML workflows  
 
 ---
 
-## 🧠 Tech Stack & Tools
-
-### 💻 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,matlab" />
-</p>
-
-### 📊 Data Science & ML  
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://img.shields.io/badge/-ScikitLearn-blue?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### 🗄️ Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
-
-### 📊 Visualization  
-<p>
-  <img src="https://img.shields.io/badge/-PowerBI-f2c811?style=for-the-badge&logo=Power%20BI&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Tableau-005571?style=for-the-badge&logo=Tableau&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+## 🧠 Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,matlab,html,css,js" />  
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />  
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-f2c811?style=for-the-badge&logo=Power%20BI&logoColor=000" />
+  <img src="https://img.shields.io/badge/Tableau-005571?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="mailto:hamsavardhini005@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hamsavardhini-s/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
+  </a>
+</p>
 
-📧 **Email:** hamsavardhini005@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/hamsavardhini-s/ 
 ---

@@ -1,8 +1,8 @@
-## 🌟 About Me  
-▪️Integrated M.Sc. Data Science student at PSG College of Technology, bridging mathematics and computer science with strong foundations in mathematics and data science
-▪️Passionate about building machine learning, agentic AI, and multi-agent systems for real-life applications.
-▪️Developing skills in Business Intelligence, focusing on data modeling, dashboarding, and analytical workflows to derive actionable insights and contribute to data-driven decision support.
----
+## 🌟 About Me
+- ▪️ **Integrated M.Sc. Data Science student at PSG College of Technology**, bridging mathematics and computer science with strong foundations in both domains.  
+- ▪️ **Passionate about building machine learning, agentic AI, and multi-agent systems** for real-life applications.  
+- ▪️ Developing skills in **Business Intelligence** — data modeling, dashboarding, and analytical workflows — to derive actionable insights and support **data-driven decision making**.
+
 
 ## 🧠 Tech Stack & Tools  
 <p align="center">

@@ -1,8 +1,7 @@
 ## 🌟 About Me  
-- 🎓 Pursuing **M.Sc. Data Science** at *PSG College of Technology*  
-- 📚 Passionate learner  
-- 🚀 Interested in **Multi-Agent Systems**, Machine Learning, and business-focused analytical solutions  
-
+▪️Integrated M.Sc. Data Science student at PSG College of Technology, bridging mathematics and computer science with strong foundations in mathematics and data science
+▪️Passionate about building machine learning, agentic AI, and multi-agent systems for real-life applications.
+▪️Developing skills in Business Intelligence, focusing on data modeling, dashboarding, and analytical workflows to derive actionable insights and contribute to data-driven decision support.
 ---
 
 ## 🧠 Tech Stack & Tools  

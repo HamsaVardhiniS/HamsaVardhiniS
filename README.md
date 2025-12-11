@@ -3,8 +3,7 @@
 -  **Passionate about building machine learning, agentic AI, and multi-agent systems** for real-life applications.  
 -  Developing skills in **Business Intelligence** data modeling, dashboarding, and analytical workflows to derive actionable insights and support **data-driven decision making**.
 
-
-## 🧠 Tech Stack & Tools  
+## 🖥️ Tech Stack & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,matlab,html,css,js" />  
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
@@ -18,8 +17,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:hamsavardhini005@gmail.com">
@@ -29,15 +26,4 @@
   <a href="https://www.linkedin.com/in/hamsavardhini-s/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
   </a>
-</p>
-
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamsaVardhiniS&layout=compact&theme=transparent&hide_border=true" height="160"/>
-
 </p>
